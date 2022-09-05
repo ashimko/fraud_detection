@@ -1,2 +1,2 @@
-# otus_mlops_course
-MlOps course hosted on Otus.ru
+# Homework [Otus MlOps|https://otus.ru/learning/183712/] course
+
