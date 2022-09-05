@@ -1,4 +1,4 @@
-# Fraud detection homework [Otus MlOps course]([https://otus.ru/learning/183712/](https://otus.ru/lessons/ml-bigdata)
+# Fraud detection homework [Otus MlOps course](https://otus.ru/learning/183712/](https://otus.ru/lessons/ml-bigdata)
 ## Project goals
 * Decrease share of fraudelent operations by 7% within a year.
 
